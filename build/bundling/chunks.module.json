@@ -1,0 +1,82 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "6a2bea9ef70ce1ce2e87",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\Marjan\\Desktop\\Marjan\\WordPress\\Frontity\\hello-frontity\\build\\static",
+  "assetsByChunkName": {
+    "hello-frontity": "hello-frontity.module.js"
+  },
+  "assets": [
+    {
+      "name": "hello-frontity.module.js",
+      "size": 6304418,
+      "chunks": [
+        "hello-frontity"
+      ],
+      "chunkNames": [
+        "hello-frontity"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "hello-frontity": {
+      "chunks": [
+        "hello-frontity"
+      ],
+      "assets": [
+        "hello-frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "hello-frontity": {
+      "chunks": [
+        "hello-frontity"
+      ],
+      "assets": [
+        "hello-frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "hello-frontity",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 1577754,
+      "names": [
+        "hello-frontity"
+      ],
+      "files": [
+        "hello-frontity.module.js"
+      ],
+      "hash": "fbb8c23bc06f0490e30e",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": [],
+  "generator": "loadable-components"
+}
