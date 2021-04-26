@@ -23,6 +23,7 @@
     "@frontity/wp-source": "^1.11.2",
     "dayjs": "^1.10.4",
     "frontity": "^1.14.3",
+    "mn-blog-theme": "file:packages\\mn-blog-theme",
     "my-first-theme": "file:packages/my-first-theme"
   }
 }
